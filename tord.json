@@ -14,8 +14,7 @@
     "Who in the room do you think would be the best date?",
     "What's your go-to karaoke song?",
     "What's the weirdest dream you've ever had?",
-    "If you could switch lives with a celebrity, who would it be?",
-    //... additional questions here up to 55+
+    "If you could switch lives with a celebrity, who would it be?"
   ],
   "dares": [
     "Sing the chorus of the last song you listened to.",
@@ -32,7 +31,6 @@
     "Speak in an accent chosen by the group for the next round.",
     "Let the group pose you and stay frozen like that until your next turn.",
     "Post an embarrassing photo of yourself on social media.",
-    "Let someone draw on your face with a washable marker.",
-    //... additional dares here up to 55+
+    "Let someone draw on your face with a washable marker."
   ]
 }
