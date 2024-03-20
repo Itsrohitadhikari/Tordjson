@@ -1,0 +1,38 @@
+{
+  "truths": [
+    "What's one thing you've never told anyone else?",
+    "What's your biggest fear?",
+    "Have you ever lied to your best friend? If so, what about?",
+    "What's the most embarrassing thing that's ever happened to you?",
+    "Who do you have a crush on?",
+    "What's one thing you regret doing?",
+    "If you could be anyone for a day, who would you be and why?",
+    "What's the biggest misconception people have about you?",
+    "When was the last time you cried and why?",
+    "What's one secret talent you have?",
+    "What's the worst date you've ever been on?",
+    "Who in the room do you think would be the best date?",
+    "What's your go-to karaoke song?",
+    "What's the weirdest dream you've ever had?",
+    "If you could switch lives with a celebrity, who would it be?",
+    //... additional questions here up to 55+
+  ],
+  "dares": [
+    "Sing the chorus of the last song you listened to.",
+    "Do your best impression of a celebrity until someone can guess who it is.",
+    "Let someone send a text from your phone.",
+    "Do the worm.",
+    "Try to juggle three items of the group's choosing.",
+    "Do your best dance moves for 30 seconds.",
+    "Wear socks on your hands for the next three rounds.",
+    "Imitate a YouTube star until someone guesses who you're portraying.",
+    "Hold a plank for one minute.",
+    "Let the group give you a new hairstyle.",
+    "Swap clothes with someone of the opposite gender.",
+    "Speak in an accent chosen by the group for the next round.",
+    "Let the group pose you and stay frozen like that until your next turn.",
+    "Post an embarrassing photo of yourself on social media.",
+    "Let someone draw on your face with a washable marker.",
+    //... additional dares here up to 55+
+  ]
+}
